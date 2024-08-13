@@ -1,0 +1,32 @@
+* {
+    background-color: #323232;
+    color: #ffffff;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    text-align: center;
+}
+
+.title-recipe {
+    font-size: 2.125em;
+}
+
+.ta-left{
+    text-align: left;
+}
+
+.ta-left li{
+    text-align: left;
+}
+
+.y-color{
+    color: #f1ba5a;
+}
+
+.hl-font {
+    font-weight: bold;
+    font-size: 1.125em;
+}
+
+.sm-font {
+    font-size: 0.75em;
+    font-style: italic;
+}
