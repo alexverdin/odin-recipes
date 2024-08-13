@@ -38,7 +38,7 @@
 
   <p align="center">
     First project from <em>The Odin Project's course</em>.
-    "The best recipes right from the Valhalla"
+    "The best recipes straight from Valhalla"
     <br />
     <a href="https://github.com/alexverdin/odin-recipes"><strong>Explore the docs »</strong></a>
     <br />
