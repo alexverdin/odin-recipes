@@ -11,16 +11,18 @@ body {
 }
 
 /*-- Main menu styles --*/
-.menu-title {
+.main-title {
     background-color: #010101;
-    margin: 0;
+    width: 80%;
+    margin: 0 auto;
     padding: 1em;
 }
 
-.menu-index {
+.menu-title {
     background-color: #aa5c28;
+    width: 90%;
     margin: 0 auto;
-    padding: 12px 0;
+    padding: 0.75em 0;
 }
 
 .menu-ul {
@@ -29,7 +31,7 @@ body {
 
 .menu-recipe-list {
     background-color: #1d1e21;
-    width: 50%;
+    width: 40%;
     margin: 12px auto;
     padding: 12px;
 }

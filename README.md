@@ -43,7 +43,7 @@
     <a href="https://github.com/alexverdin/odin-recipes"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/alexverdin/odin-recipes">View Demo</a>
+    <a href="https://alexverdin.github.io/odin-recipes/">View Demo</a>
     ·
     <a href="https://github.com/alexverdin/odin-recipes/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
